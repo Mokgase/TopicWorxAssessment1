@@ -25,5 +25,5 @@ def visualize_covid_data(file_path):
     # Show plot
     plt.show()
 
-file_path = '/covid_data.csv'  # Replace with the actual CSV file path
+file_path = 'covid_data.csv'  
 visualize_covid_data(file_path)
